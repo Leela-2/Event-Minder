@@ -1,5 +1,5 @@
 # Event Scheduler
-This is the first app that I developed on Flutter. It is a basic event-scheduling app where one can enter the details of an event and that would be added to the event list.
+This is the  app that I developed on Flutter. It is a basic event-scheduling app where one can enter the details of an event and that would be added to the event list.
 
 ## UI
 <img src="https://github.com/manohar-iitg/EventScheduler-Flutter-/assets/96137651/86abeea4-23d1-4f31-98e2-f129f2d21ed7" height=600 width=300>
